@@ -1,0 +1,229 @@
+Country.Area.Name,FIPS,GENC,Subregion,Region,Year,Total.Fertility.Rate,Life.Expectancy.at.Birth..Both.Sexes,Life.Expectancy.at.Birth..Males,Life.Expectancy.at.Birth..Females
+Afghanistan,AF,AF,South-Central Asia,Asia,2020,4.82,52.84,51.35,54.41
+Albania,AL,AL,Southern Europe,Europe,2020,1.5288,78.99,76.3,81.9
+Algeria,AG,DZ,Northern Africa,Africa,2020,2.5852,77.54,76.07,79.09
+American Samoa,AQ,AS,Polynesia,Oceania,2020,2.35,74.79,72.27,77.47
+Andorra,AN,AD,Southern Europe,Europe,2020,1.4293,83.03,80.79,85.42
+Angola,AO,AO,Middle Africa,Africa,2020,5.9618,61.29,59.26,63.38
+Anguilla,AV,AI,Caribbean,Americas,2020,1.7252,81.79,79.15,84.5
+Antigua and Barbuda,AC,AG,Caribbean,Americas,2020,1.97,77.31,75.11,79.61
+Argentina,AR,AR,South America,Americas,2020,2.21,77.82,74.71,81.14
+Armenia,AM,AM,Western Asia,Asia,2020,1.6467,75.59,72.3,79.2
+Aruba,AA,AW,Caribbean,Americas,2020,1.8292,77.52,74.4,80.7
+Australia,AS,AU,Australia/New Zealand,Oceania,2020,1.7364,82.69,80.52,84.98
+Austria,AU,AT,Western Europe,Europe,2020,1.4929,81.86,79.2,84.66
+Azerbaijan,AJ,AZ,Western Asia,Asia,2020,1.8764,73.61,70.5,76.9
+"Bahamas, The",BF,BS,Caribbean,Americas,2020,1.9841,75.61,72.65,78.66
+Bahrain,BA,BH,Western Asia,Asia,2020,1.6893,79.45,77.15,81.8
+Bangladesh,BG,BD,South-Central Asia,Asia,2020,2.11,74.16,71.96,76.45
+Barbados,BB,BB,Caribbean,Americas,2020,1.7041,78.07,75.28,80.9
+Belarus,BO,BY,Eastern Europe,Europe,2020,1.4997,73.74,68.3,79.5
+Belgium,BE,BE,Western Europe,Europe,2020,1.7734,81.44,78.8,84.2
+Belize,BH,BZ,Central America,Americas,2020,2.7,75.3,73.69,76.99
+Benin,BN,BJ,Western Africa,Africa,2020,5.5143,61.42,59.64,63.28
+Bermuda,BD,BM,Northern America,Americas,2020,1.9125,81.62,78.5,84.9
+Bhutan,BT,BT,South-Central Asia,Asia,2020,1.82,71.07,69.7,72.51
+Bolivia,BL,BO,South America,Americas,2020,2.48,70.41,67.56,73.39
+Bosnia and Herzegovina,BK,BA,Southern Europe,Europe,2020,1.3357,77.5,74.5,80.7
+Botswana,BC,BW,Southern Africa,Africa,2020,2.45,64.82,62.82,66.89
+Brazil,BR,BR,South America,Americas,2020,1.73,74.71,71.2,78.4
+Brunei,BX,BN,South-Eastern Asia,Asia,2020,1.75,77.89,75.5,80.4
+Bulgaria,BU,BG,Eastern Europe,Europe,2020,1.4859,75.04,71.8,78.48
+Burkina Faso,UV,BF,Western Africa,Africa,2020,4.51,62.66,60.91,64.47
+Burma,BM,MM,South-Eastern Asia,Asia,2020,2.07,69.33,67.66,71.1
+Burundi,BY,BI,Eastern Africa,Africa,2020,5.1729,66.71,64.64,68.84
+Cabo Verde,CV,CV,Western Africa,Africa,2020,2.16,73.2,70.83,75.63
+Cambodia,CB,KH,South-Eastern Asia,Asia,2020,2.39,65.93,63.37,68.59
+Cameroon,CM,CM,Middle Africa,Africa,2020,4.66,62.3,60.63,64.03
+Canada,CA,CA,Northern America,Americas,2020,1.5606,83.42,81.12,85.85
+Cayman Islands,CJ,KY,Caribbean,Americas,2020,1.8334,81.63,78.9,84.4
+Central African Republic,CT,CF,Middle Africa,Africa,2020,4.14,54.62,53.28,55.99
+Chad,CD,TD,Middle Africa,Africa,2020,5.68,58.29,56.52,60.13
+Chile,CI,CL,South America,Americas,2020,1.77,79.34,76.3,82.5
+China,CH,CN,Eastern Asia,Asia,2020,1.6,76.05,73.96,78.37
+Colombia,CO,CO,South America,Americas,2020,2.15,76.66,73.5,80.0
+Comoros,CN,KM,Eastern Africa,Africa,2020,2.95,66.59,64.37,68.88
+Congo (Brazzaville),CF,CG,Middle Africa,Africa,2020,4.45,61.27,59.88,62.7
+Congo (Kinshasa),CG,CD,Middle Africa,Africa,2020,5.77,61.01,59.28,62.79
+Cook Islands,CW,CK,Polynesia,Oceania,2020,2.12,76.64,73.78,79.64
+Costa Rica,CS,CR,Central America,Americas,2020,1.8739,79.18,76.5,82.0
+C�te d'Ivoire,IV,CI,Western Africa,Africa,2020,3.67,61.34,59.17,63.57
+Croatia,HR,HR,Southern Europe,Europe,2020,1.4281,76.72,73.56,80.07
+Cuba,CU,CU,Caribbean,Americas,2020,1.7096,79.18,76.8,81.7
+Cura�ao,UC,CW,Caribbean,Americas,2020,2.0,78.96,76.6,81.43
+Cyprus,CY,CY,Western Asia,Asia,2020,1.4761,79.27,76.43,82.25
+Czechia,EZ,CZ,Eastern Europe,Europe,2020,1.477,79.27,76.3,82.4
+Denmark,DA,DK,Northern Europe,Europe,2020,1.777,81.24,79.3,83.3
+Djibouti,DJ,DJ,Eastern Africa,Africa,2020,2.19,64.69,62.08,67.37
+Dominica,DO,DM,Caribbean,Americas,2020,2.02,77.72,74.73,80.86
+Dominican Republic,DR,DO,Caribbean,Americas,2020,2.24,72.0,70.28,73.79
+Ecuador,EC,EC,South America,Americas,2020,2.09,77.51,74.53,80.64
+Egypt,EG,EG,Northern Africa,Africa,2020,3.29,73.74,72.26,75.31
+El Salvador,ES,SV,Central America,Americas,2020,2.09,74.84,71.31,78.55
+Equatorial Guinea,EK,GQ,Middle Africa,Africa,2020,4.11,66.02,64.66,67.41
+Eritrea,ER,ER,Eastern Africa,Africa,2020,3.73,66.17,63.6,68.82
+Estonia,EN,EE,Northern Europe,Europe,2020,1.608,77.39,72.7,82.3
+Eswatini,WZ,SZ,Southern Africa,Africa,2020,2.52,58.56,56.47,60.72
+Ethiopia,ET,ET,Eastern Africa,Africa,2020,4.14,67.54,65.47,69.68
+Faroe Islands,FO,FO,Northern Europe,Europe,2020,2.313,80.83,78.27,83.57
+Fiji,FJ,FJ,Melanesia,Oceania,2020,2.31,73.73,71.03,76.56
+Finland,FI,FI,Northern Europe,Europe,2020,1.7427,81.33,78.4,84.4
+France,FR,FR,Western Europe,Europe,2020,2.0552,82.18,79.09,85.42
+French Polynesia,FP,PF,Polynesia,Oceania,2020,1.83,77.94,75.6,80.4
+Gabon,GB,GA,Middle Africa,Africa,2020,3.41,69.03,67.32,70.79
+"Gambia, The",GA,GM,Western Africa,Africa,2020,3.21,65.84,63.48,68.27
+Gaza Strip,GZ,XG,Western Asia,Asia,2020,3.64,74.87,73.11,76.74
+Georgia,GG,GE,Western Asia,Asia,2020,1.7547,77.0,72.9,81.3
+Germany,GM,DE,Western Europe,Europe,2020,1.4732,81.08,78.7,83.6
+Ghana,GH,GH,Western Africa,Africa,2020,3.76,68.65,66.96,70.39
+Gibraltar,GI,GI,Southern Europe,Europe,2020,1.9202,79.98,77.1,83.0
+Greece,GR,GR,Southern Europe,Europe,2020,1.3804,81.07,78.5,83.8
+Greenland,GL,GL,Northern America,Americas,2020,1.938,73.43,70.7,76.3
+Grenada,GJ,GD,Caribbean,Americas,2020,1.96,75.22,72.58,78.11
+Guam,GQ,GU,Micronesia,Oceania,2020,2.84,77.0,74.55,79.61
+Guatemala,GT,GT,Central America,Americas,2020,2.72,72.35,70.3,74.5
+Guernsey,GK,GG,Northern Europe,Europe,2020,1.5738,82.84,80.1,85.7
+Guinea,GV,GN,Western Africa,Africa,2020,4.92,63.15,61.34,65.02
+Guinea-Bissau,PU,GW,Western Africa,Africa,2020,4.75,62.83,60.63,65.1
+Guyana,GY,GY,South America,Americas,2020,2.08,71.3,69.44,73.25
+Haiti,HA,HT,Caribbean,Americas,2020,2.52,65.27,62.61,67.95
+Honduras,HO,HN,Central America,Americas,2020,2.09,74.64,71.05,78.33
+Hong Kong,HK,HK,Eastern Asia,Asia,2020,1.2105,83.22,80.5,86.1
+Hungary,HU,HU,Eastern Europe,Europe,2020,1.4662,76.7,73.0,80.6
+Iceland,IC,IS,Northern Europe,Europe,2020,1.97,83.26,81.01,85.6
+India,IN,IN,South-Central Asia,Asia,2020,2.3,69.71,68.39,71.17
+Indonesia,ID,ID,South-Eastern Asia,Asia,2020,2.07,72.56,70.38,74.84
+Iran,IR,IR,South-Central Asia,Asia,2020,1.9416,74.87,73.53,76.28
+Iraq,IZ,IQ,Western Asia,Asia,2020,3.39,72.62,70.72,74.62
+Ireland,EI,IE,Northern Europe,Europe,2020,1.9385,81.23,78.9,83.7
+Isle of Man,IM,IM,Northern Europe,Europe,2020,1.9035,81.63,79.8,83.6
+Israel,IS,IL,Western Asia,Asia,2020,2.59,82.96,81.05,84.96
+Italy,IT,IT,Southern Europe,Europe,2020,1.4652,82.47,79.8,85.3
+Jamaica,JM,JM,Caribbean,Americas,2020,2.07,75.23,73.44,77.1
+Japan,JA,JP,Eastern Asia,Asia,2020,1.3677,84.47,81.53,87.57
+Jersey,JE,JE,Northern Europe,Europe,2020,1.6536,82.22,79.7,84.9
+Jordan,JO,JO,Western Asia,Asia,2020,3.04,75.49,73.98,77.09
+Kazakhstan,KZ,KZ,South-Central Asia,Asia,2020,2.16,71.97,66.81,76.8
+Kenya,KE,KE,Eastern Africa,Africa,2020,3.43,68.95,67.31,70.62
+Kiribati,KR,KI,Micronesia,Oceania,2020,2.25,67.27,64.7,69.96
+"Korea, North",KN,KP,Eastern Asia,Asia,2020,1.92,71.54,67.7,75.6
+"Korea, South",KS,KR,Eastern Asia,Asia,2020,1.08,82.58,79.44,85.88
+Kosovo,KV,XK,Southern Europe,Europe,2020,1.9477,72.71,70.51,75.08
+Kuwait,KU,KW,Western Asia,Asia,2020,2.2647,78.67,77.21,80.21
+Kyrgyzstan,KG,KG,South-Central Asia,Asia,2020,2.54,71.79,67.66,76.19
+Laos,LA,LA,South-Eastern Asia,Asia,2020,2.6133,65.66,63.51,67.89
+Latvia,LG,LV,Northern Europe,Europe,2020,1.5311,75.39,70.9,80.1
+Lebanon,LE,LB,Western Asia,Asia,2020,1.71,78.29,76.88,79.76
+Lesotho,LT,LS,Southern Africa,Africa,2020,2.98,58.2,56.04,60.42
+Liberia,LI,LR,Western Africa,Africa,2020,4.9,64.74,62.52,67.02
+Libya,LY,LY,Northern Africa,Africa,2020,3.17,76.68,74.41,79.05
+Liechtenstein,LS,LI,Western Europe,Europe,2020,1.6903,82.16,79.9,85.0
+Lithuania,LH,LT,Northern Europe,Europe,2020,1.6028,75.43,70.03,81.14
+Luxembourg,LU,LU,Western Europe,Europe,2020,1.624,82.58,80.1,85.2
+Macau,MC,MO,Eastern Asia,Asia,2020,1.2,84.63,81.7,87.7
+Madagascar,MA,MG,Eastern Africa,Africa,2020,3.78,67.55,66.27,68.86
+Malawi,MI,MW,Eastern Africa,Africa,2020,3.62,71.88,68.74,75.07
+Malaysia,MY,MY,South-Eastern Asia,Asia,2020,1.7813,75.62,73.97,77.37
+Maldives,MV,MV,South-Central Asia,Asia,2020,1.71,76.43,74.04,78.94
+Mali,ML,ML,Western Africa,Africa,2020,5.72,61.6,59.42,63.85
+Malta,MT,MT,Southern Europe,Europe,2020,1.4916,82.81,80.7,85.0
+Marshall Islands,RM,MH,Micronesia,Oceania,2020,2.86,74.11,71.84,76.5
+Mauritania,MR,MR,Western Africa,Africa,2020,3.65,64.5,62.09,66.98
+Mauritius,MP,MU,Eastern Africa,Africa,2020,1.73,76.45,73.01,80.06
+Mexico,MX,MX,Central America,Americas,2020,2.1895,76.68,73.88,79.63
+"Micronesia, Federated States of",FM,FM,Micronesia,Oceania,2020,2.29,73.9,71.77,76.14
+Moldova,MD,MD,Eastern Europe,Europe,2020,1.5796,71.88,68.0,76.0
+Monaco,MN,MC,Western Europe,Europe,2020,1.5162,89.27,85.4,93.3
+Mongolia,MG,MN,Eastern Asia,Asia,2020,1.95,70.79,66.57,75.23
+Montenegro,MJ,ME,Southern Europe,Europe,2020,1.8193,77.26,74.8,79.8
+Montserrat,MH,MS,Caribbean,Americas,2020,1.3031,75.28,76.39,74.12
+Morocco,MO,MA,Northern Africa,Africa,2020,2.31,73.29,71.59,75.07
+Mozambique,MZ,MZ,Eastern Africa,Africa,2020,4.9675,55.87,54.41,57.38
+Namibia,WA,,Southern Africa,Africa,2020,3.07,65.26,63.32,67.25
+Nauru,NR,NR,Micronesia,Oceania,2020,2.68,67.3,63.75,70.98
+Nepal,NP,NP,South-Central Asia,Asia,2020,1.96,71.83,71.09,72.62
+Netherlands,NL,NL,Western Europe,Europe,2020,1.7741,81.74,79.5,84.1
+New Caledonia,NC,NC,Melanesia,Oceania,2020,1.88,78.35,74.4,82.5
+New Zealand,NZ,NZ,Australia/New Zealand,Oceania,2020,1.8733,82.13,80.36,83.99
+Nicaragua,NU,NI,Central America,Americas,2020,1.82,74.24,72.0,76.6
+Niger,NG,NE,Western Africa,Africa,2020,7.0,59.3,57.82,60.83
+Nigeria,NI,NG,Western Africa,Africa,2020,4.72,60.4,58.63,62.27
+North Macedonia,MK,MK,Southern Europe,Europe,2020,1.4995,76.33,74.2,78.6
+Northern Mariana Islands,CQ,MP,Micronesia,Oceania,2020,2.694,76.07,73.95,78.54
+Norway,NO,NO,Northern Europe,Europe,2020,1.841,82.14,80.0,84.4
+Oman,MU,OM,Western Asia,Asia,2020,2.7622,76.37,74.41,78.43
+Pakistan,PK,PK,South-Central Asia,Asia,2020,3.6035,69.06,67.06,71.17
+Palau,PS,PW,Micronesia,Oceania,2020,1.7,74.11,70.9,77.5
+Panama,PM,PA,Central America,Americas,2020,2.23,79.24,76.41,82.19
+Papua New Guinea,PP,PG,Melanesia,Oceania,2020,2.84,69.57,67.09,72.17
+Paraguay,PA,PY,South America,Americas,2020,1.8943,77.88,75.2,80.7
+Peru,PE,PE,South America,Americas,2020,2.04,74.7,72.56,76.93
+Philippines,RP,PH,South-Eastern Asia,Asia,2020,2.92,70.03,66.47,73.76
+Poland,PL,PL,Eastern Europe,Europe,2020,1.3802,78.29,74.5,82.3
+Portugal,PO,PT,Southern Europe,Europe,2020,1.4061,81.08,77.9,84.4
+Puerto Rico,RQ,PR,Caribbean,Americas,2020,1.2248,81.25,78.0,84.7
+Qatar,QA,QA,Western Asia,Asia,2020,1.9043,79.34,77.2,81.53
+Romania,RO,RO,Eastern Europe,Europe,2020,1.3756,76.05,72.6,79.7
+Russia,RS,RU,Eastern Europe,Europe,2020,1.6009,71.88,66.3,77.8
+Rwanda,RW,RW,Eastern Africa,Africa,2020,3.52,65.11,63.2,67.07
+Saint Barthelemy,TB,BL,Caribbean,Americas,2020,1.6366,80.14,77.0,83.4
+"Saint Helena, Ascension, and Tristan da Cunha",SH,SH,Western Africa,Africa,2020,1.5964,80.03,77.1,83.1
+Saint Kitts and Nevis,SC,KN,Caribbean,Americas,2020,1.7685,76.57,74.1,79.1
+Saint Lucia,ST,LC,Caribbean,Americas,2020,1.73,78.47,75.7,81.4
+Saint Martin,RN,MF,Caribbean,Americas,2020,1.8056,80.14,77.0,83.4
+Saint Pierre and Miquelon,SB,PM,Northern America,Americas,2020,1.5806,80.98,78.6,83.5
+Saint Vincent and the Grenadines,VC,VC,Caribbean,Americas,2020,1.76,76.17,74.1,78.3
+Samoa,WS,WS,Polynesia,Oceania,2020,2.4995,74.68,71.75,77.76
+San Marino,SM,SM,Southern Europe,Europe,2020,1.5137,83.49,80.9,86.3
+Sao Tome and Principe,TP,ST,Middle Africa,Africa,2020,3.82,66.39,64.83,67.99
+Saudi Arabia,SA,SA,Western Asia,Asia,2020,1.9857,76.15,74.55,77.82
+Senegal,SG,SN,Western Africa,Africa,2020,4.04,63.47,61.25,65.76
+Serbia,RI,RS,Southern Europe,Europe,2020,1.4625,76.31,73.4,79.4
+Seychelles,SE,SC,Eastern Africa,Africa,2020,1.83,75.58,71.1,80.2
+Sierra Leone,SL,SL,Western Africa,Africa,2020,4.62,59.79,57.1,62.55
+Singapore,SN,SG,South-Eastern Asia,Asia,2020,1.14,86.03,83.3,88.9
+Sint Maarten,NN,SX,Caribbean,Americas,2020,2.0153,78.8,76.42,81.29
+Slovakia,LO,SK,Eastern Europe,Europe,2020,1.4378,77.83,74.3,81.6
+Slovenia,SI,SI,Southern Europe,Europe,2020,1.5877,81.4,78.5,84.4
+Solomon Islands,BP,SB,Melanesia,Oceania,2020,2.97,76.19,73.51,79.01
+Somalia,SO,SO,Eastern Africa,Africa,2020,5.51,54.92,52.65,57.27
+South Africa,SF,ZA,Southern Africa,Africa,2020,2.22,64.75,63.37,66.16
+South Sudan,OD,SS,Northern Africa,Africa,2020,5.5383,55.54,54.63,56.49
+Spain,SP,ES,Southern Europe,Europe,2020,1.5089,82.0,79.0,85.2
+Sri Lanka,CE,LK,South-Central Asia,Asia,2020,2.0119,77.51,74.04,81.11
+Sudan,SU,SD,Northern Africa,Africa,2020,4.7246,66.45,64.27,68.75
+Suriname,NS,SR,South America,Americas,2020,1.86,73.29,70.8,75.9
+Sweden,SW,SE,Northern Europe,Europe,2020,1.8633,82.4,80.4,84.5
+Switzerland,SZ,CH,Western Europe,Europe,2020,1.5707,82.83,80.5,85.3
+Syria,SY,SY,Western Asia,Asia,2020,2.9,73.74,72.26,75.31
+Taiwan,TW,TW,Eastern Asia,Asia,2020,1.0603,80.73,77.7,83.95
+Tajikistan,TI,TJ,South-Central Asia,Asia,2020,2.51,68.76,65.61,72.07
+Tanzania,TZ,TZ,Eastern Africa,Africa,2020,4.51,69.6,67.81,71.45
+Thailand,TH,TH,South-Eastern Asia,Asia,2020,1.5353,77.16,74.12,80.37
+Timor-Leste,TT,TL,South-Eastern Asia,Asia,2020,4.44,69.33,67.64,71.13
+Togo,TO,TG,Western Africa,Africa,2020,4.33,70.61,67.98,73.33
+Tonga,TN,TO,Polynesia,Oceania,2020,2.87,77.04,75.38,78.75
+Trinidad and Tobago,TD,TT,Caribbean,Americas,2020,1.7,74.67,71.57,77.86
+Tunisia,TS,TN,Northern Africa,Africa,2020,2.06,76.31,74.62,78.11
+Turkey,TU,TR,Western Asia,Asia,2020,1.96,75.7,73.3,78.21
+Turkmenistan,TX,TM,South-Central Asia,Asia,2020,2.04,71.25,68.2,74.46
+Turks and Caicos Islands,TK,TC,Caribbean,Americas,2020,1.7,80.38,77.6,83.3
+Tuvalu,TV,TV,Polynesia,Oceania,2020,2.88,67.76,65.38,70.26
+Uganda,UG,UG,Eastern Africa,Africa,2020,5.54,68.2,65.95,70.53
+Ukraine,UP,UA,Eastern Europe,Europe,2020,1.5515,72.9,68.2,77.9
+United Arab Emirates,AE,AE,Western Asia,Asia,2020,1.6645,79.17,77.86,80.57
+United Kingdom,UK,GB,Northern Europe,Europe,2020,1.8641,81.09,78.8,83.5
+United States,US,US,Northern America,Americas,2020,1.8436,80.27,77.99,82.51
+Uruguay,UY,UY,South America,Americas,2020,1.77,77.94,74.8,81.2
+Uzbekistan,UZ,UZ,South-Central Asia,Asia,2020,1.736,74.76,71.7,78.0
+Vanuatu,NH,VU,Melanesia,Oceania,2020,2.79,74.61,72.9,76.4
+Venezuela,VE,VE,South America,Americas,2020,2.26,71.0,67.49,74.69
+Vietnam,VM,VN,South-Eastern Asia,Asia,2020,2.0774,74.98,72.38,77.86
+"Virgin Islands, British",VI,VG,Caribbean,Americas,2020,1.3274,79.21,77.7,80.8
+"Virgin Islands, U.S.",VQ,VI,Caribbean,Americas,2020,2.03,79.82,76.59,83.24
+Wallis and Futuna,WF,WF,Polynesia,Oceania,2020,1.7133,80.23,77.2,83.4
+West Bank,WE,XW,Western Asia,Asia,2020,3.07,75.87,73.75,78.11
+Western Sahara,WI,EH,Northern Africa,Africa,2020,3.65,64.7,62.27,67.21
+Yemen,YM,YE,Western Asia,Asia,2020,3.2,66.85,64.58,69.24
+Zambia,ZA,ZM,Eastern Africa,Africa,2020,4.6971,65.58,63.77,67.44
+Zimbabwe,ZI,ZW,Eastern Africa,Africa,2020,3.93,62.33,60.21,64.51
